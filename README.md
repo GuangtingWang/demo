@@ -7,3 +7,5 @@ this is a simple readme file
 more changes in the coming lecctures on a branch
 
 this is good
+
+stashing
