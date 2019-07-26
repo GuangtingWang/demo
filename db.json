@@ -24,5 +24,22 @@
   "meta":{
     "totalPages":2,
     "totalCount":34
+  },
+  "test":{
+    "id": "ab-start-my-cart",
+    "version: "1.0.0",
+    "data": {
+      "testID": "start-my-cart-buy-it-again",
+      "split": "50:50",
+      "active": true,
+      "authenticated": true,
+      "device": "all",
+      "traffic": 100,
+      "domain": "mrrobot",
+      "components": [
+        "asset://_variant/1.0.0/headersectionwrapper/1.0.0/ab-start-my-cart",
+        "asset://_variant/1.0.0/headersectionwrapper/1.0.0/ab-buy-it-again"
+      ]
+    }
   }
 }
